@@ -1,0 +1,4 @@
+﻿Nguyen Thai Son,8,6,9
+Tran Chi Hao,9,5,7
+Nguyen Thai Nguyen,3,7,2
+Pham Khong Hoc,1,1,1
